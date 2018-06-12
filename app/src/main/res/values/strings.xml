@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Varzea News</string>
+    <string name="tab_text_1">Classificação</string>
+    <string name="tab_text_2">Jogos</string>
+    <string name="tab_text_3">Estatisticas</string>
+    <string name="action_settings">Configurações</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
